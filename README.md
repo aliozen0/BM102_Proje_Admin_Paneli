@@ -1,14 +1,12 @@
 # BM102 Proje Admin Paneli 
-BM102 Bilgisayar Programlama 2 Proje Ödevi için Admin Panel kısmının reposudur.
+BM102 Bilgisayar Programlama 2 dersinin Proje Ödevi için tasarlanan Admin Panel kısmının reposudur.
 
-Gazi üniversitesi mühendislik fakültesi bilgisayar mühendisliğinin dersi olan BM102 bilgisayar programlama dersinde 2023 Bahar dönemi kapsamında verilmiş proje ödevimizdir.
-Projemiz bir yemek sipariş uygulamasıdır iki tane panelden olışmaktadır ve projemizde C# yazılım dili windows form uygulaması ve MS SQL kullanılmıştır.
+Gazi üniversitesi mühendislik fakültesi bilgisayar mühendisliği bölüm dersi olan BM102 bilgisayar programlama dersinde 2023 Bahar dönemi kapsamında verilmiş proje ödevimizdir.
+Projemiz bir yemek sipariş uygulamasıdır.İki tane panelden oluşmaktadır. Projemizde nesne yönelimli bir dil olan C# yazılım dili windows form uygulaması ve veritabanı için de MS SQL kullanılmıştır.
 
-İlk panelimiz kullanıcı panelidir burası müşterilerin gördüğü kısımdır müşteriler bu panel sayesinde yemek siparişi verebilir,
-eski siparişlerini ve verdiği siparişlerin durumunu görebilir ayrıca e posta ve şifre değişikliği yapabilir.
+İlk panelimiz kullanıcı panelidir. Girişte müşterilerden bilgileri doğrultusunda bir hesap oluşturması, hesabı hali hazırda varsa da hesabına giriş yapılması istenir. Daha sonrasında kullanıcılar için bir anasayfa tasarlanmıştır ve kullanıcı denetimleriyle sayfalar arası geçiş sağlanmıştır. Müşteriler bu panel sayesinde ürünleri görüntüleyebilir, sepete ürün ekleyip sipariş verebilir, siparişlerinin güncel durumlarını ve eski siparişlerini görüntüleyebilir ayrıca e posta ve şifre değişikliği yapabilir.
 
-Admin paneli ise sadece işletmenin sahibibib gördüğü kısımdır. Admin bu panel sayesinde veri tabanına yemek ekleyebilir, yemek silebilir, tüm siparişleri görüntüleyebilir,
-siparişlerin durumunu değiştirebilir ve kullanıclıarın bazı bilgilerini görebilir.
+Admin paneli ise sadece işletme sahibinin gördüğü kısımdır. Admin bu panel sayesinde veri tabanına ürün ekleyip silebilir, tüm siparişleri görüntüleyebilir, siparişlerin durumunu güncelleyebilir ve kullanıcıların bazı bilgilerini görebilir.
 
 Projeyi Hazırlayanlar:
 
